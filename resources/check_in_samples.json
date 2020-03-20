@@ -1,0 +1,602 @@
+[
+	{
+		"origin": "-56.14853, 55.37155",
+		"destination": "46.41833, 172.24354",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "-47.07199, 143.36355",
+		"destination": "-79.67914, -107.31286",
+		"isLoaded": true,
+		"truckType": 4
+	},
+	{
+		"origin": "-5.02641, -0.55215",
+		"destination": "62.87923, -53.81416",
+		"isLoaded": false,
+		"truckType": 3
+	},
+	{
+		"origin": "77.65994, -35.99343",
+		"destination": "-45.69849, 112.88205",
+		"isLoaded": true,
+		"truckType": 5
+	},
+	{
+		"origin": "-46.38523, -102.03603",
+		"destination": "57.29114, 145.37952",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "34.53072, -111.9736",
+		"destination": "-83.41675, -167.48329",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "9.75067, -37.34258",
+		"destination": "-48.7274, 94.70275",
+		"isLoaded": true,
+		"truckType": 5
+	},
+	{
+		"origin": "71.5305, 16.12274",
+		"destination": "23.19651, -145.58527",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "64.1378, -94.11265",
+		"destination": "50.18773, 28.91577",
+		"isLoaded": true,
+		"truckType": 5
+	},
+	{
+		"origin": "-32.99981, 121.58981",
+		"destination": "66.26783, 72.74662",
+		"isLoaded": false,
+		"truckType": 2
+	},
+	{
+		"origin": "52.42833, 85.93366",
+		"destination": "-85.77309, 90.75433",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "82.05864, 64.68451",
+		"destination": "26.02901, -15.40044",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "79.40577, 43.29775",
+		"destination": "-0.92193, 158.92509",
+		"isLoaded": true,
+		"truckType": 1
+	},
+	{
+		"origin": "10.30834, -35.81541",
+		"destination": "72.82274, -51.25755",
+		"isLoaded": false,
+		"truckType": 3
+	},
+	{
+		"origin": "-43.55779, -88.39278",
+		"destination": "81.53128, -68.01499",
+		"isLoaded": false,
+		"truckType": 1
+	},
+	{
+		"origin": "39.02756, 108.30617",
+		"destination": "-35.33216, 114.06958",
+		"isLoaded": false,
+		"truckType": 1
+	},
+	{
+		"origin": "75.8343, -125.55499",
+		"destination": "66.36049, 54.5596",
+		"isLoaded": true,
+		"truckType": 1
+	},
+	{
+		"origin": "-21.90559, 98.88974",
+		"destination": "18.97122, 146.5522",
+		"isLoaded": false,
+		"truckType": 3
+	},
+	{
+		"origin": "38.1252, -132.523",
+		"destination": "43.55166, 158.40941",
+		"isLoaded": true,
+		"truckType": 1
+	},
+	{
+		"origin": "-82.82975, 44.86589",
+		"destination": "-52.36593, -73.492",
+		"isLoaded": true,
+		"truckType": 1
+	},
+	{
+		"origin": "-68.45065, -109.86095",
+		"destination": "-6.56937, 24.82016",
+		"isLoaded": true,
+		"truckType": 1
+	},
+	{
+		"origin": "-34.09867, -130.9821",
+		"destination": "47.63249, -135.29773",
+		"isLoaded": true,
+		"truckType": 1
+	},
+	{
+		"origin": "-65.13376, 136.84152",
+		"destination": "-37.40359, 37.41294",
+		"isLoaded": false,
+		"truckType": 1
+	},
+	{
+		"origin": "80.41694, 28.32654",
+		"destination": "43.06252, 30.22315",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "-62.59533, 101.89307",
+		"destination": "-5.38804, -132.64902",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "-66.84249, -138.27589",
+		"destination": "-36.94393, 82.93056",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "32.02029, -111.78138",
+		"destination": "10.71396, 132.23841",
+		"isLoaded": true,
+		"truckType": 4
+	},
+	{
+		"origin": "65.36783, -91.4329",
+		"destination": "-44.92742, 68.92885",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "-75.77147, 116.68821",
+		"destination": "66.62207, -151.29698",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "-44.28315, -151.34288",
+		"destination": "-44.99206, 47.54848",
+		"isLoaded": true,
+		"truckType": 3
+	},
+	{
+		"origin": "-84.03969, -75.37301",
+		"destination": "47.63615, -172.62736",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "-47.48638, -24.03067",
+		"destination": "45.82397, 66.99605",
+		"isLoaded": false,
+		"truckType": 3
+	},
+	{
+		"origin": "-24.00392, -55.19972",
+		"destination": "-64.55851, 17.65309",
+		"isLoaded": true,
+		"truckType": 4
+	},
+	{
+		"origin": "43.30886, -104.91148",
+		"destination": "16.47362, -59.93872",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "47.10254, -6.49871",
+		"destination": "38.40476, 68.90815",
+		"isLoaded": true,
+		"truckType": 3
+	},
+	{
+		"origin": "44.84281, -37.48111",
+		"destination": "41.8805, -1.92209",
+		"isLoaded": true,
+		"truckType": 3
+	},
+	{
+		"origin": "-31.48887, -52.49139",
+		"destination": "-70.74364, 104.77089",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "68.70377, -63.30494",
+		"destination": "-45.44694, -117.701",
+		"isLoaded": false,
+		"truckType": 3
+	},
+	{
+		"origin": "7.9349, -0.53266",
+		"destination": "77.75442, 38.71174",
+		"isLoaded": false,
+		"truckType": 1
+	},
+	{
+		"origin": "75.26114, 106.64988",
+		"destination": "-75.05455, -113.18926",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "-61.13971, -97.01128",
+		"destination": "-3.69367, -163.1226",
+		"isLoaded": true,
+		"truckType": 1
+	},
+	{
+		"origin": "-56.38986, 24.69554",
+		"destination": "-33.99351, 70.35386",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "5.91124, -136.63246",
+		"destination": "-41.41218, 126.43991",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "-56.09671, -95.79754",
+		"destination": "33.9344, 1.32755",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "-7.02461, -42.94626",
+		"destination": "-22.19704, 58.17126",
+		"isLoaded": true,
+		"truckType": 5
+	},
+	{
+		"origin": "-85.13238, 115.06686",
+		"destination": "-52.06941, 99.2445",
+		"isLoaded": false,
+		"truckType": 2
+	},
+	{
+		"origin": "-40.39001, 120.199",
+		"destination": "35.5734, -56.23091",
+		"isLoaded": true,
+		"truckType": 4
+	},
+	{
+		"origin": "-18.03538, 158.43281",
+		"destination": "-23.61956, 84.63469",
+		"isLoaded": true,
+		"truckType": 5
+	},
+	{
+		"origin": "-16.16508, -108.87987",
+		"destination": "33.03492, -81.2496",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "-80.90476, 36.72223",
+		"destination": "72.75226, -44.14105",
+		"isLoaded": false,
+		"truckType": 3
+	},
+	{
+		"origin": "-0.47566, 167.52662",
+		"destination": "41.01141, 64.48841",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "-64.35517, 169.22891",
+		"destination": "88.96, -178.91389",
+		"isLoaded": false,
+		"truckType": 4
+	},
+	{
+		"origin": "51.43171, 34.72403",
+		"destination": "-58.95322, -176.72186",
+		"isLoaded": false,
+		"truckType": 1
+	},
+	{
+		"origin": "-60.10474, 162.69074",
+		"destination": "55.57063, 82.98973",
+		"isLoaded": false,
+		"truckType": 2
+	},
+	{
+		"origin": "-29.54952, 54.0506",
+		"destination": "22.47031, 82.72651",
+		"isLoaded": false,
+		"truckType": 3
+	},
+	{
+		"origin": "43.41432, 68.23671",
+		"destination": "-85.5189, -61.76421",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "88.80717, 86.83263",
+		"destination": "44.34612, 1.1937",
+		"isLoaded": true,
+		"truckType": 5
+	},
+	{
+		"origin": "-0.95544, 11.06562",
+		"destination": "43.01108, -104.07543",
+		"isLoaded": false,
+		"truckType": 2
+	},
+	{
+		"origin": "57.43355, -82.9236",
+		"destination": "-53.7191, 155.73255",
+		"isLoaded": false,
+		"truckType": 3
+	},
+	{
+		"origin": "38.30015, -97.96815",
+		"destination": "-8.99666, 14.77791",
+		"isLoaded": false,
+		"truckType": 3
+	},
+	{
+		"origin": "-4.29696, -179.97738",
+		"destination": "6.89009, 164.68947",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "58.66114, 17.63718",
+		"destination": "-28.14264, 85.0825",
+		"isLoaded": true,
+		"truckType": 5
+	},
+	{
+		"origin": "89.43072, 28.44653",
+		"destination": "23.46615, -95.75631",
+		"isLoaded": true,
+		"truckType": 5
+	},
+	{
+		"origin": "76.46859, -1.00888",
+		"destination": "2.1176, -144.47455",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "73.08565, 112.12281",
+		"destination": "84.29781, -146.48977",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "-46.43229, 137.50119",
+		"destination": "88.50017, -75.9089",
+		"isLoaded": false,
+		"truckType": 4
+	},
+	{
+		"origin": "-25.57074, -49.76866",
+		"destination": "69.68199, 32.60739",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "-10.44487, -148.20512",
+		"destination": "40.8009, -141.2077",
+		"isLoaded": true,
+		"truckType": 1
+	},
+	{
+		"origin": "39.6945, -73.16079",
+		"destination": "-44.63257, 46.67951",
+		"isLoaded": false,
+		"truckType": 2
+	},
+	{
+		"origin": "0.78619, 153.63274",
+		"destination": "13.88738, 56.49388",
+		"isLoaded": false,
+		"truckType": 4
+	},
+	{
+		"origin": "16.25747, -55.84092",
+		"destination": "-71.71133, -44.9597",
+		"isLoaded": false,
+		"truckType": 4
+	},
+	{
+		"origin": "67.90263, 75.81674",
+		"destination": "-79.68496, 166.53659",
+		"isLoaded": true,
+		"truckType": 5
+	},
+	{
+		"origin": "-85.9033, 126.43114",
+		"destination": "-29.60421, -8.87706",
+		"isLoaded": true,
+		"truckType": 5
+	},
+	{
+		"origin": "-16.59935, 31.58865",
+		"destination": "22.88776, 137.74879",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "19.71139, -77.28147",
+		"destination": "-43.10474, 11.19558",
+		"isLoaded": true,
+		"truckType": 4
+	},
+	{
+		"origin": "-13.83944, -125.65517",
+		"destination": "3.16463, -45.051",
+		"isLoaded": true,
+		"truckType": 3
+	},
+	{
+		"origin": "-26.66586, -165.42533",
+		"destination": "-55.69275, -18.14453",
+		"isLoaded": true,
+		"truckType": 5
+	},
+	{
+		"origin": "-45.01027, -21.6904",
+		"destination": "66.15812, 12.91953",
+		"isLoaded": false,
+		"truckType": 5
+	},
+	{
+		"origin": "31.87759, -104.6631",
+		"destination": "16.85322, 57.38432",
+		"isLoaded": false,
+		"truckType": 2
+	},
+	{
+		"origin": "-57.89883, 147.64225",
+		"destination": "-49.59905, 142.5069",
+		"isLoaded": false,
+		"truckType": 3
+	},
+	{
+		"origin": "-39.39248, -49.66756",
+		"destination": "-47.6552, -46.99384",
+		"isLoaded": true,
+		"truckType": 4
+	},
+	{
+		"origin": "16.63646, 169.94204",
+		"destination": "31.83233, -140.26201",
+		"isLoaded": true,
+		"truckType": 4
+	},
+	{
+		"origin": "-57.77754, 39.57527",
+		"destination": "12.64755, -146.58249",
+		"isLoaded": false,
+		"truckType": 1
+	},
+	{
+		"origin": "-79.4299, -94.69143",
+		"destination": "-89.90985, -134.83096",
+		"isLoaded": true,
+		"truckType": 4
+	},
+	{
+		"origin": "-49.58208, -151.12057",
+		"destination": "61.62469, -138.25468",
+		"isLoaded": false,
+		"truckType": 1
+	},
+	{
+		"origin": "-45.14575, 124.82761",
+		"destination": "76.13021, -153.16025",
+		"isLoaded": true,
+		"truckType": 1
+	},
+	{
+		"origin": "42.53724, 153.47318",
+		"destination": "-52.48781, -163.59577",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "-57.73394, -139.86695",
+		"destination": "66.02038, 119.78526",
+		"isLoaded": false,
+		"truckType": 2
+	},
+	{
+		"origin": "-30.54262, 19.24305",
+		"destination": "29.94958, 0.16278",
+		"isLoaded": true,
+		"truckType": 4
+	},
+	{
+		"origin": "-4.61368, 139.73434",
+		"destination": "61.55216, -82.87424",
+		"isLoaded": false,
+		"truckType": 1
+	},
+	{
+		"origin": "-73.73225, -59.05676",
+		"destination": "61.76842, 38.87553",
+		"isLoaded": true,
+		"truckType": 3
+	},
+	{
+		"origin": "-18.73209, 161.78069",
+		"destination": "-84.62231, 4.72988",
+		"isLoaded": false,
+		"truckType": 1
+	},
+	{
+		"origin": "81.72183, 142.29843",
+		"destination": "30.20598, 160.03597",
+		"isLoaded": true,
+		"truckType": 4
+	},
+	{
+		"origin": "72.23018, 43.84272",
+		"destination": "-57.92726, -158.4373",
+		"isLoaded": true,
+		"truckType": 1
+	},
+	{
+		"origin": "45.37217, -123.72493",
+		"destination": "-89.20137, 161.54854",
+		"isLoaded": false,
+		"truckType": 3
+	},
+	{
+		"origin": "15.8275, -110.36469",
+		"destination": "-75.27492, -39.49253",
+		"isLoaded": true,
+		"truckType": 4
+	},
+	{
+		"origin": "-32.64309, -5.62418",
+		"destination": "-88.61346, 14.13852",
+		"isLoaded": false,
+		"truckType": 4
+	},
+	{
+		"origin": "-51.4019, 79.91468",
+		"destination": "-23.99188, -175.97777",
+		"isLoaded": true,
+		"truckType": 3
+	},
+	{
+		"origin": "-64.3517, -124.30426",
+		"destination": "-15.75116, -156.03433",
+		"isLoaded": true,
+		"truckType": 2
+	},
+	{
+		"origin": "-40.23987, -117.41004",
+		"destination": "-30.3657, 18.84921",
+		"isLoaded": false,
+		"truckType": 2
+	}
+]

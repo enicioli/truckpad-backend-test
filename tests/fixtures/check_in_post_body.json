@@ -1,0 +1,12 @@
+{
+    "truckType": 5,
+    "origin": {
+    	"lng": 1,
+    	"lat": 2
+    },
+    "destination": {
+    	"lng": 2,
+    	"lat": 1
+    },
+    "isLoaded": true
+}
